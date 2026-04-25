@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Ali
 
-<!--
-**Ahmed55455/Ahmed55455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student at Istanbul Arel University, deeply engaged in software development and problem-solving. 
 
-Here are some ideas to get you started:
+### 💻 Technologies & Areas of Interest
+- **Web & Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Programming Languages:** Python, C++, Java, SQL, Assembly,JavaScript
+- **Machine Learning & Computer Vision:** Convolutional Neural Networks (CNNs), ResNet50, MobileNetV2, OpenCV
+- **Networking & Systems:** TCP/UDP performance analysis, socket programming, ARQ protocols
+- **Database Management:** Relational schema design, SQL triggers, EER modeling
+- **Web & Frontend:** HTML, Bootstrap, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+- Currently building a web-based game inspired by the classic **Chicken Invaders** using **HTML**, **CSS**, and **JavaScript**.
+- Working on a comprehensive web design project utilizing **HTML**, **Bootstrap** and **JavaScript**.
+- Developing engineering projects that bridge deep learning and robust software architecture, such as smart drug recognition systems and advanced file transfer simulators.
